@@ -1,0 +1,19 @@
+h1 {
+    color: aqua;
+    background-color: black;
+}
+
+p {
+    color: slateblue;
+    font-size: 24px;
+}
+
+li {
+    font-style: italic;
+    font-size: 20px;
+}
+
+q {
+    color: aqua;
+    background-color: black;
+}
